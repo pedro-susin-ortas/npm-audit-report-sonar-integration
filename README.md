@@ -7,6 +7,8 @@ Transform json file of audit report to a generic formatted issue report of sonar
 * NPM audit library
 
 # Execution Example (Shell Script)
+               #!/bin/bash
+               
                transformerPath=.
                projectSrc=myproject_src
                projectName=myproject
